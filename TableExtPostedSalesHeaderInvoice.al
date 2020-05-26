@@ -6,6 +6,7 @@ tableextension 50101 SalesInvHeaderExt extends "Sales Invoice Header"
         {
             DataClassification = ToBeClassified;
             Caption = 'Driver';
+            Editable = false;
         }
     }
 
