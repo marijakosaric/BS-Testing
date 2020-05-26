@@ -5,6 +5,7 @@ tableextension 50100 SalesHeaderExt extends "Sales Header"
         field(50100; Driver; Text[50])
         {
             DataClassification = ToBeClassified;
+
         }
     }
 

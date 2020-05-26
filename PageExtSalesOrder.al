@@ -6,7 +6,8 @@ pageextension 50102 SalesOrderExt extends "Sales Order"
         {
             field(Driver; Driver)
             {
-                ApplicationArea = All;
+                ApplicationArea = ALL;
+                Caption = 'Driver';
 
             }
         }
