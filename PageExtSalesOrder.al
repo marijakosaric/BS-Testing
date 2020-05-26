@@ -2,11 +2,11 @@ pageextension 50102 SalesOrderExt extends "Sales Order"
 {
     layout
     {
-        addlast("Shipping and Billing")
+        addlast(General)
         {
             field(Driver; Driver)
             {
-                ApplicationArea = ALL;
+                ApplicationArea = All;
                 Caption = 'Driver';
 
             }
