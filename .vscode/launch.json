@@ -5,7 +5,7 @@
             "type": "al",
             "request": "launch",
             "name": "Your own server",
-            "server": "http://BCOnPrem152TM/",
+            "server": "http://BCOnPrem152TM/BC",
             "serverInstance": "BC",
             "authentication": "UserPassword",
             "startupObjectId": 22,
